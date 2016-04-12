@@ -7,13 +7,13 @@ header {
 nav {
     line-height:30px;
     background-color:rgb(204,204,204);
-    height:500px;
-    width:150px;
+    height:1000px;
+    width:200px;
     float:left;
     padding:5px; 
 }
 section {
-    width:350px;
+    width:600px;
     float:left;
     padding:10px; 
 }
@@ -25,4 +25,3 @@ footer {
     padding:5px; 
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
