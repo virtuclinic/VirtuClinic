@@ -6,7 +6,7 @@ header {
 }
 nav {
     line-height:30px;
-    background-color:rgb(250,240,255);
+    background-color:rgb(127,127,127);
     height:500px;
     width:150px;
     float:left;
@@ -24,3 +24,4 @@ footer {
     text-align:center;
     padding:5px; 
 }
+
