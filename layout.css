@@ -1,12 +1,12 @@
 header {
-    background-color:rgb(106,220,255);
-    color:black;
+    background-color:rgb(221,36,255);
+    color:rgb(12,181,232);
     text-align:center;
     padding:5px; 
 }
 nav {
     line-height:30px;
-    background-color:#eeeeee;
+    background-color:rgb(250,240,255);
     height:500px;
     width:150px;
     float:left;
@@ -18,7 +18,7 @@ section {
     padding:10px; 
 }
 footer {
-    background-color:black;
+    background-color:rgb(12,181,232);
     color:white;
     clear:both;
     text-align:center;
