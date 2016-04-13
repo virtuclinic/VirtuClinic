@@ -36,3 +36,17 @@ footer {
     display: inline-block;
     font-size: 16px;
 }
+
+.footer { 
+ background-color:rgb(12,181,232);
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px; 
+
+}
