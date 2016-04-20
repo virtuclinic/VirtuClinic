@@ -44,3 +44,17 @@ position: fixed;
     height: 30px; 
 
 }
+
+h1 {
+color:white;
+
+}
+
+body {
+    font-family: "Courier New";
+}
+
+.glyphicon glyphicon-home {
+color:white;
+
+}
